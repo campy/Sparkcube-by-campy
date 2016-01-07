@@ -1,3 +1,0 @@
-Die .GCO Dateien in diesem Ordner nehmen Einstellungen im EEPROM der Repetier Firmware vor.
-
-Sie werden behandelt wie jeder andere G-Code auch. Entweder man kopiert das Skript auf SD Karte und startet von LCD oder man öffnet die Datei direkt im Host.

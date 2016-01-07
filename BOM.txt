@@ -1,0 +1,115 @@
+Original BOM des sparkcube v1 + zusätzlich benötigte Teile für den v1.1
+
+############################################################################################
+Schrauben DIN 912:
+
+m2,5x10								- 6 stk.
+
+m3x8								- 12 stk.
+m3x10								- 4 stk.
+m3x16								- 7 stk.
+m3x30								- 16 stk.
+
+m4x8 								- 21 stk.
+m4x8								- 72 stk. (Gehäuseabdeckung)
+m4x14								- 3 stk.
+m4x20								- 16 stk.
+m4x22								- 8 stk.
+m4x30								- 2 stk.
+m4x40								- 16 stk.
+
+m5x45								- 4 stk.
+
+############################################################################################
+Schrauben Din912 VG: 
+
+m5x40								- 2 stk.
+
+Schrauben ISO 7380:
+
+m6x16								- 16 stk.
+
+############################################################################################
+Gewindestangen: 
+
+Gewindestange m6x224						- 1 stk.
+
+############################################################################################
+Muttern:
+
+m3								- 35 stk. 
+m4								- 29 stk.
+m5								- 8 stk.
+m6								- 2 stk.
+
+Nutmutter m4							- 25 stk.
+Nutmutter m4 (Außenwand)					- 72 stk. (auch druckbar)
+
+############################################################################################
+Scheiben:
+
+Scheibe 4,3							- 12 stk.
+Scheibe 5,3							- 12 stk.
+
+############################################################################################
+Lager/Welle:
+
+Kugellager mit Flanke F605					- 16 stk.
+Pendelkugellager 126 NEU!					- 1 stk.
+
+Linearlager lm10uu						- 8 stk.
+Linearlager mit Flansch lmk10uu					- 4 stk.
+
+Linearwelle 10h6 gehärtet	298mm				- 2 stk.
+Linearwelle 10h6 gehärtet	378mm				- 2 stk.
+Linearwelle 10h6 gehärtet	355mm				- 2 stk.	
+
+############################################################################################
+Sonstige:
+
+Zahnriemen GT2							- 3,5 Meter
+Pulley (Riemenräder)	GT2 20T mm				- 2 stk.
+NEMA 17 Schrittmotoren	(40mm lang)				- 3 stk.
+Kupplung 5/6 vornehmlich lieber Schlauch als Chinakuplung	- 1 stk.
+Extruder direkt drive 1,75mm	(z.b. sparklab Extruder)	- 1 stk.
+1,75mm Hotend (Empfehlung: E3D-v6 1,75mm)
+
+Aluprofile:
+
+20x20 Typ B 425							- 4 stk.
+20x20 Typ B 380							- 4 stk.
+20x20 Typ B 300							- 4 stk.
+
+Endkappen 20x20							- 4 stk.
+Standfüße	 tellerförmig m6				- 4 stk.
+
+############################################################################################
+Aluminiumplatten:
+
+Aluminiumplatte 4mm 465x300					- 2 stk. (Vorder- und Hinterseite)
+Aluminiumplatte 4mm 420x300					- 2 stk. (rechte und linke Seite)
+Aluminiumplatte 4mm 465x420					- 2 stk. (Ober- und Unterseite)
+Aluminiumplatte 4mm 304x222					- 1 stk. (Bett)
+
+
+############################################################################################
+Elektronik:
+
+Netzteil 12V/20A						- 1 stk.
+Arduino Mega 2560						- 1 stk.
+SD-Modul							- 1 stk.
+HD44780 20x04 LCD						- 1 stk.
+RAMPS 1.4							- 1 stk.
+Stepstick							- 4 stk.
+Heizbett/Dauerdruckplatte					- 1 stk.
+Endschalter TYP Marquardt 1050					- 3 stk.
+Gehäuse für Elektronik ca. 100x90x200				- 1 stk.
+PC-Lüfter 80mm							- 1 stk.
+Kabel 1,5mm^2							- 5 Meter
+Kabel 0,22mm^2							- 30 Meter
+
+
+
+
+
+

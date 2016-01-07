@@ -1,0 +1,8 @@
+
+1.1
+- better printable z-rod-clamps
+- stronger x carriage, failsafe assembly without screws + extra nuttraps
+- better printable x-ends
+- stiffer h_ends
+- new z_bearing holder
+- shorter xendstop for more print area

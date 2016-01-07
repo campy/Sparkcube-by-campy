@@ -1,0 +1,10 @@
+Was passiert, wenn ich die „sparklab_Extruder.gco“ auf meinem sparkcube mit Repetier Firmware ausführe?
+
+Folgende Werte werden in den EEPROM eingespeichert:
+
+Extr. Steps/mm
+Extr. Max Feedrate
+Extr. Start Feedrate
+Extr. Acceleration
+
+passend für den sparklab Extruder
